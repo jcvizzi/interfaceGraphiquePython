@@ -1,0 +1,1 @@
+Problème de library wx (interface graphique wxpython), attention dernière mise à jour du site source du 08/02/2007
